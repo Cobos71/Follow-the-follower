@@ -16,4 +16,4 @@ Follow the next instructions in order to complete the practice
   
 3.- And finally the last command: 
   
-  `roslaunch turtle_tf3 turtle_tf3_demo.launch` 
+  `roslaunch turtlesim_tf3 turtle_tf3_demo.launch` 
