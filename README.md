@@ -1,6 +1,6 @@
 # Follow-the-follower
 
-Practice of the moving turtle <br/> 
+Practice of the moving turtle 
 
 # Purpose 
 
