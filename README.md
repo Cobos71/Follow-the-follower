@@ -8,12 +8,12 @@ Follow the next instructions in order to complete the practice
 
 1.- Get access to the workspace with the following command: 
 
-  ´cd catkin_us´
+  `cd catkin_us`
 
 2.- After that, procede to execute the next command: 
 
-  source devel/setup.bash 
+  `source devel/setup.bash`
   
 3.- And finally the last command: 
   
-  roslaunch turtle_tf3 turtle_tf3_demo.launch 
+  `roslaunch turtle_tf3 turtle_tf3_demo.launch` 
