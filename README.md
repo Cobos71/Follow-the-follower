@@ -8,7 +8,7 @@ Follow the next instructions in order to complete the practice
 
 1.- Get access to the workspace with the following command: 
 
-  'cd catkin_us'
+  ´cd catkin_us´
 
 2.- After that, procede to execute the next command: 
 
