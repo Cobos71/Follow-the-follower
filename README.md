@@ -2,5 +2,16 @@
 Practice of the moving turtle 
 
 # Purpose 
-Use ROS concepts to be able to modify an existing node, in such a way that the student uses the documentation and knowledge to solve a problem
+UIn or 
 
+# Instruction
+
+1.- Get access to the workspace with the following command: 
+
+  cd catkin_us
+
+2.- After that, procede to execute the next command: 
+
+  source devel/setup.bash 
+  
+3.-
